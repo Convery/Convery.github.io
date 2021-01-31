@@ -1,0 +1,13 @@
+/* 
+
+Custom css here
+
+*/
+#header .header-inner #logo a > img,
+#header #header-wrap #logo a > img {
+  vertical-align: inherit;
+  transition: all .4s ease-in-out;
+  height: 30px;
+  width: auto;
+  padding: 5px;
+}
